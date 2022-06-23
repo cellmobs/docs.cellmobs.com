@@ -107,7 +107,6 @@ plugins:
 extra_css:
   - stylesheets/extra.css
 extra:
-  homepage: "https://dev.cellmobs.com"
   analytics:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
