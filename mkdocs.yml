@@ -20,8 +20,8 @@
 
 # Project information
 site_name: Documentation
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_url: https://www.cellmobs.com/
+site_author: Cellmobs, Inc.
 site_description: >-
   Create a branded static site from a set of Markdown files to host the
   documentation of your Open Source or commercial project
