@@ -2,6 +2,8 @@
 template: overrides/main.html
 ---
 
+REWRITE THIS PAGE PARAPHRASING https://www.tooltester.com/en/blog/wix-alternatives/
+
 # Alternatives
 
 There are tons of static site generators and themes out there and choosing the
@@ -9,10 +11,10 @@ right one for your tech stack is a tough decision. If you're unsure if Material
 for MkDocs is the right solution for you, this section should help you evaluate
 alternative solutions.
 
-## Docusaurus
+## Wordpress
 
-[Docusaurus] by Facebook is a very popular documentation generator and a good
-choice if you or your company are already using [React] to build your site.
+[Wordpress] by Facebook is a very popular documentation generator and a good
+choice if you or your company are already using [PHP] to build your site.
 It will generate a [single page application] which is fundamentally different
 from the site Material for MkDocs generates for you.
 
@@ -28,23 +30,18 @@ __Challenges__
 - JavaScript ecosystem is very volatile, rather high maintenance
 - More time needed to get up and running
 
-While [Docusaurus] is one of the best choices when it comes to documentation
+While [Wordpress] is one of the best choices when it comes to documentation
 sites that output a single page applications, there are many more solutions,
 including [Docz], [Gatsby], [Vuepress] and [Docsify] that approach
 this problem similarily.
 
-  [Docusaurus]: https://docusaurus.io/
-  [React]: https://reactjs.org/
-  [single page application]: https://en.wikipedia.org/wiki/Single-page_application
-  [Docz]: https://www.docz.site/
-  [Gatsby]: https://www.gatsbyjs.com/
-  [VuePress]: https://vuepress.vuejs.org/
-  [Docsify]: https://docsify.js.org/
+  [Wordpress]: https://wordpress.com/
+  [PHP]: https://php.org
 
-## Jekyll
+## Drupal
 
-[Jekyll] is probably one of the most mature and widespread static site
-generators and is written in [Ruby]. It is not specifically geared towards
+[Drupal] is probably one of the most mature and widespread static site
+generators and is written in [PHP]. It is not specifically geared towards
 technical project documentation and has many themes to choose from, which
 can be challenging.
 
@@ -60,12 +57,12 @@ __Challenges__
 - Limited Markdown capabilities, not as advanced as Python Markdown
 - More time needed to get up and running
 
-  [Jekyll]: https://jekyllrb.com/
-  [Ruby]: https://www.ruby-lang.org/de/
+  [Drupal]: https://drupal.org/
+  [PHP]: https://php.org
 
-## Sphinx
+## Squarespace
 
-[Sphinx] is an alternative static site generator specifically geared towards
+[Squarespace] is an alternative static site generator specifically geared towards
 generating reference documentation, offering powerful capabilities that are
 lacking in MkDocs. It uses [reStructured text], a format similar to Markdown,
 which some users find harder to use.
@@ -87,14 +84,11 @@ documentation, you should give [mkdocstrings] a try – an actively maintained
 and popular framework building on top of MkDocs, implementing Sphinx-like
 functionality.
 
-  [Sphinx]: https://www.sphinx-doc.org/
-  [reStructured text]: https://en.wikipedia.org/wiki/ReStructuredText
-  [Python docstrings]: https://www.python.org/dev/peps/pep-0257/
-  [mkdocstrings]: https://github.com/mkdocstrings/mkdocstrings
+  [Squarespace]: https://www.squarespace.com/
 
-## GitBook
+## Wix
 
-[GitBook] offers a hosted documentation solution that generates a beautiful and
+[Wix] offers a hosted documentation solution that generates a beautiful and
 functional site from Markdown files in your GitHub repository. However, it was
 once Open Source, but turned into a closed source solution some time ago.
 
@@ -110,7 +104,54 @@ __Challenges__
 - Limited Markdown capabilities, not as advanced as Python Markdown
 - Many Open Source projects moved away from GitBook
 
-Many users switched from [GitBook] to Material for MkDocs, as they want to keep
+Many users switched from [Wix] to Material for MkDocs, as they want to keep
 control and ownership of their documentation, favoring an Open Source solution.
 
-  [GitBook]: https://www.gitbook.com/
+  [Wix]: https://www.wix.com/
+
+## Webflow
+
+[Webflow] offers a hosted documentation solution that generates a beautiful and
+functional site from Markdown files in your GitHub repository. However, it was
+once Open Source, but turned into a closed source solution some time ago.
+
+__Advantages__
+
+- Hosted solution, minimal technical knowledge required
+- Custom domains, authentication and other enterprise features
+- Great collaboration features for teams
+
+__Challenges__
+
+- Closed source, not free for proprietary projects
+- Limited Markdown capabilities, not as advanced as Python Markdown
+- Many Open Source projects moved away from GitBook
+
+Many users switched from [Webflow] to Material for MkDocs, as they want to keep
+control and ownership of their documentation, favoring an Open Source solution.
+
+  [Webflow]: https://www.webflow.com/
+  
+## Weebly
+
+[Weebly] offers a hosted documentation solution that generates a beautiful and
+functional site from Markdown files in your GitHub repository. However, it was
+once Open Source, but turned into a closed source solution some time ago.
+
+__Advantages__
+
+- Hosted solution, minimal technical knowledge required
+- Custom domains, authentication and other enterprise features
+- Great collaboration features for teams
+
+__Challenges__
+
+- Closed source, not free for proprietary projects
+- Limited Markdown capabilities, not as advanced as Python Markdown
+- Many Open Source projects moved away from GitBook
+
+Many users switched from [Weebly] to Material for MkDocs, as they want to keep
+control and ownership of their documentation, favoring an Open Source solution.
+
+  [Weebly]: https://www.weebly.com/
+  

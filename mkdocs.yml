@@ -16,10 +16,10 @@
 # AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-# IN THE SOFTWARE.
+# IN THE SOFTWARE. 
 
 # Project information
-site_name: Cellmobs Documenation
+site_name: Documentation
 site_url: https://squidfunk.github.io/mkdocs-material/
 site_author: Martin Donath
 site_description: >-
@@ -37,7 +37,7 @@ copyright: Copyright &copy; 2012 - 2022 Cellmobs, Inc.
 theme:
   name: null
   custom_dir: !ENV [THEME_DIR, "material"]
-  logo: assets/logo.png
+  logo: assets/logo-lite.png
 
   # Static files
   static_templates:
@@ -69,7 +69,7 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-    - scheme: default
+    - scheme: cellmobs
       primary: blue
       accent: blue
       toggle:
@@ -82,7 +82,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   font:
-    text: Roboto
+    text: Nunito
     code: Roboto Mono
   favicon:  assets/logo.png
   icon:
@@ -93,32 +93,24 @@ plugins:
   - search
   - redirects:
       redirect_maps:
-        changelog/insiders.md: insiders/changelog.md
-        conventions.md: philosophy.md
-        reference/abbreviations.md: reference/tooltips.md
-        reference/meta-tags.md: reference/index.md
-        reference/variables.md: https://mkdocs-macros-plugin.readthedocs.io/
-        sponsorship.md: insiders/index.md
         upgrading.md: upgrade.md
   - minify:
       minify_html: true
 
 # Customization
+extra_css:
+  - stylesheets/extra.css
 extra:
   analytics:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/squidfunk
-    - icon: fontawesome/brands/gitter
-      link: https://gitter.im/squidfunk/mkdocs-material
+      link: https://github.com/cellmobs
     - icon: fontawesome/brands/docker
       link: https://hub.docker.com/r/squidfunk/mkdocs-material/
-    - icon: fontawesome/brands/python
-      link: https://pypi.org/project/mkdocs-material/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/squidfunk
+    - icon: fontawesome/brands/jira
+      link: https://cellmobs.atlassian.net/
 
 # Extensions
 markdown_extensions:
@@ -163,14 +155,17 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Home: https://dev.cellmobs.com
   - Getting started:
     - Installation: getting-started.md
+    - Create your first app: getting-your-first-app.md
     - Creating your site: creating-your-site.md
     - Publishing your site: publishing-your-site.md
     - Customization: customization.md
-    - Browser support: browser-support.md
+    - React/NextJS SDK: get-started-with-react-and-nextjs.md
+    - Vue/Nuxt SDK: get-started-with-vue-and-nuxt.md
     - Philosophy: philosophy.md
+    - Technologies: technologies.md
     - Alternatives: alternatives.md
     - License: license.md
     - Changelog:
@@ -186,6 +181,7 @@ nav:
     - Setting up site search: setup/setting-up-site-search.md
     - Setting up site analytics: setup/setting-up-site-analytics.md
     - Setting up social cards: setup/setting-up-social-cards.md
+    - Setting up vocabularies: setup/setting-up-vocabularies.md
     - Setting up tags: setup/setting-up-tags.md
     - Setting up versioning: setup/setting-up-versioning.md
     - Setting up the header: setup/setting-up-the-header.md
@@ -193,37 +189,9 @@ nav:
     - Adding a git repository: setup/adding-a-git-repository.md
     - Adding a comment system: setup/adding-a-comment-system.md
     - Building for offline usage: setup/building-for-offline-usage.md
-    - Extensions:
-      - setup/extensions/index.md
-      - Python Markdown: setup/extensions/python-markdown.md
-      - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
   - Reference:
-    - reference/index.md
-    - Admonitions: reference/admonitions.md
-    - Annotations: reference/annotations.md
-    - Buttons: reference/buttons.md
-    - Code blocks: reference/code-blocks.md
-    - Content tabs: reference/content-tabs.md
-    - Data tables: reference/data-tables.md
-    - Diagrams: reference/diagrams.md
-    - Footnotes: reference/footnotes.md
-    - Formatting: reference/formatting.md
-    - Grids: reference/grids.md
-    - Icons, Emojis: reference/icons-emojis.md
-    - Images: reference/images.md
-    - Lists: reference/lists.md
-    - MathJax: reference/mathjax.md
-    - Tooltips: reference/tooltips.md
-  - Insiders:
-    - insiders/index.md
-    - Getting started:
-      - Installation: insiders/getting-started.md
-      - Changelog: insiders/changelog.md
-  - Blog:
-    - blog/index.md
-    - 2022:
-      - blog/2022/chinese-search-support.md
-    - 2021:
-      - blog/2021/the-past-present-and-future.md
-      - blog/2021/excluding-content-from-search.md
-      - blog/2021/search-better-faster-smaller.md
+    - https://documenter.getpostman.com/view/17666924/VUxVrQ7S
+  - Apps:
+    - https://dev.cellmobs.com/apps
+  - Account:
+    - https://dev.cellmobs.com/account
