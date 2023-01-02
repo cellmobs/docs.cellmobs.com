@@ -3,7 +3,7 @@ template: overrides/main.html
 title: Getting started
 ---
 
-# Admin Getting started
+# Getting started
 
 Material for MkDocs is a theme for [MkDocs], a static site generator geared
 towards (technical) project documentation. If you're familiar with Python, you
@@ -15,10 +15,6 @@ If not, we recommend using [`docker`][docker].
   [docker]: #with-docker
 
 ## Installation
-
-ssssss
-
-## Installation2
 
 ### with pip <small>recommended</small> { #with-pip data-toc-label="with pip" }
 

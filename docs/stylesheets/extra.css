@@ -1,5 +1,13 @@
 [data-md-color-scheme="cellmobs"] {
---md-primary-fg-color:        #192d35;
---md-primary-fg-color--light: #325665;
+--md-primary-fg-color:        #ffffff;
+--md-primary-fg-color--light: #192d35;
 --md-primary-fg-color--dark:  #0c191e;
+--md-primary-bg-color: #9c0d14;
+--md-typeset-a-color:  #9c0d14;
 }
+.md-tabs{
+    background-color: #fae8e8;
+ }
+ .md-search__form:hover{
+    background-color: #423f3f;
+ }

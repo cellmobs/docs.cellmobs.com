@@ -28,7 +28,7 @@ site_description: >-
 
 # Repository
 repo_name: cellmobs/cellmobs-docs
-repo_url: https://github.com/cellmobs
+repo_url: https://github.com/cellmobs/cellmobs.github.io
 
 # Copyright
 copyright: Copyright &copy; 2012 - 2022 Cellmobs, Inc.
@@ -37,7 +37,7 @@ copyright: Copyright &copy; 2012 - 2022 Cellmobs, Inc.
 theme:
   name: null
   custom_dir: !ENV [THEME_DIR, "material"]
-  logo: assets/logo-lite.png
+  logo: assets/logo-dark.png
 
   # Static files
   static_templates:
@@ -189,6 +189,8 @@ nav:
     - Adding a git repository: setup/adding-a-git-repository.md
     - Adding a comment system: setup/adding-a-comment-system.md
     - Building for offline usage: setup/building-for-offline-usage.md
+  - Console Guide:
+    - Getting Started : admin/admin-getting-started.md
   - Reference:
     - https://documenter.getpostman.com/view/17666924/VUxVrQ7S
   - Apps:
