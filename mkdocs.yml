@@ -197,6 +197,16 @@ nav:
     - Content: admin/admin-content.md
     - Products: admin/admin-products.md
     - Other Functionalities: admin/admin-other-functionalities.md
+  - Development Guide :
+    - Quickstart : Development-Guide/Quickstart.md
+    - React SDK : Development-Guide/React-SDK.md
+    - Nuxt SDK : Development-Guide/Nuxt-SDK.md
+  - Common Use Cases :
+    - E-Commerce : Common-Use-Cases/E-Commerce.md
+    - Marketplace : Common-Use-Cases/Marketplace.md
+    - Community : Common-Use-Cases/Community.md
+    - Content Aggregation : Common-Use-Cases/Content-Aggregation.md
+    - Content Syndication : Common-Use-Cases/Content-Syndication.md    
   - Reference:
     - https://documenter.getpostman.com/view/17666924/VUxVrQ7S
   - Apps:
