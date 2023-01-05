@@ -23,15 +23,14 @@ site_name: Documentation
 site_url: https://www.cellmobs.com/
 site_author: Cellmobs, Inc.
 site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project
-
+  Cellmobs is a scalable and flexible cross-platform framework for 
+  building modern web and mobile applications. 
 # Repository
 repo_name: cellmobs/cellmobs-docs
 repo_url: https://github.com/cellmobs/cellmobs.github.io
 
 # Copyright
-copyright: Copyright &copy; 2012 - 2022 Cellmobs, Inc.
+copyright: Copyright &copy; 2012 - 2023 Cellmobs, Inc.
 
 # Configuration
 theme:
