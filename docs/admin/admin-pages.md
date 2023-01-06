@@ -28,9 +28,3 @@ ___
     - Select the page that was created 
     - And change the status! = Approved 
     - Now, go back to the website and see if the login page is not showing up 
-
-    <figure markdown>
-[![Admin Pages]][Admin Pages]
-    </figure>
-
-[Admin Pages]: ../assets/screenshots/admin/admin-pages.png

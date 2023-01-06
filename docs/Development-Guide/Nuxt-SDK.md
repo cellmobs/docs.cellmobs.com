@@ -10,3 +10,4 @@ title: Nuxt SDK
 ## How to deploy
 
 ##  How to create a new Page
+
