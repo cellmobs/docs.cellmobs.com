@@ -16,7 +16,7 @@
 # AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 # FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-# IN THE SOFTWARE. 
+# IN THE SOFTWARE.
 
 # Project information
 site_name: Documentation
@@ -188,8 +188,24 @@ nav:
     - Adding a git repository: setup/adding-a-git-repository.md
     - Adding a comment system: setup/adding-a-comment-system.md
     - Building for offline usage: setup/building-for-offline-usage.md
-  - Console Guide:
+  - Admin Console Guide:
     - Getting Started : admin/admin-getting-started.md
+    - Organizations: admin/admin-organizations.md
+    - Users: admin/admin-users.md
+    - Pages: admin/admin-pages.md
+    - Content: admin/admin-content.md
+    - Products: admin/admin-products.md
+    - Other Functionalities: admin/admin-other-functionalities.md
+  - Development Guide :
+    - Quickstart : Development-Guide/Quickstart.md
+    - React SDK : Development-Guide/React-SDK.md
+    - Nuxt SDK : Development-Guide/Nuxt-SDK.md
+  - Common Use Cases :
+    - E-Commerce : Common-Use-Cases/E-Commerce.md
+    - Marketplace : Common-Use-Cases/Marketplace.md
+    - Community : Common-Use-Cases/Community.md
+    - Content Aggregation : Common-Use-Cases/Content-Aggregation.md
+    - Content Syndication : Common-Use-Cases/Content-Syndication.md    
   - Reference:
     - https://documenter.getpostman.com/view/17666924/VUxVrQ7S
   - Apps:
