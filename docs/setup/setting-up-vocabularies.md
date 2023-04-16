@@ -2,4 +2,6 @@
 template: overrides/main.html
 ---
 
-# Setting up tags
+# Setting up Vocabularies
+
+Vocabularies

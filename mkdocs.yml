@@ -67,6 +67,7 @@ theme:
     - search.suggest
     - toc.follow
     # - toc.integrate
+    - announce.dismiss    
   palette:
     - scheme: cellmobs
       primary: blue
@@ -157,9 +158,10 @@ nav:
   - Home: https://dev.cellmobs.com
   - Getting started:
     - Installation: getting-started.md
-    - Create your first app: getting-your-first-app.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
+    - React SDK : setup/react-sdk.md
+    - Nuxt SDK : setup/nuxt-sdk.md
+    - Create Apps: setup/creating-apps.md
+    - Creating your site: setup/creating-a-website.md
     - Customization: customization.md
     - React/NextJS SDK: get-started-with-react-and-nextjs.md
     - Vue/Nuxt SDK: get-started-with-vue-and-nuxt.md
@@ -169,46 +171,36 @@ nav:
     - License: license.md
     - Changelog:
       - changelog/index.md
-      - How to upgrade: upgrade.md
-  - Setup:
-    - Changing the colors: setup/changing-the-colors.md
-    - Changing the fonts: setup/changing-the-fonts.md
-    - Changing the language: setup/changing-the-language.md
-    - Changing the logo and icons: setup/changing-the-logo-and-icons.md
-    - Ensuring data privacy: setup/ensuring-data-privacy.md
-    - Setting up navigation: setup/setting-up-navigation.md
-    - Setting up site search: setup/setting-up-site-search.md
-    - Setting up site analytics: setup/setting-up-site-analytics.md
-    - Setting up social cards: setup/setting-up-social-cards.md
-    - Setting up vocabularies: setup/setting-up-vocabularies.md
-    - Setting up tags: setup/setting-up-tags.md
-    - Setting up versioning: setup/setting-up-versioning.md
-    - Setting up the header: setup/setting-up-the-header.md
-    - Setting up the footer: setup/setting-up-the-footer.md
-    - Adding a git repository: setup/adding-a-git-repository.md
-    - Adding a comment system: setup/adding-a-comment-system.md
-    - Building for offline usage: setup/building-for-offline-usage.md
-  - Admin Console Guide:
-    - Getting Started : admin/admin-getting-started.md
-    - Organizations: admin/admin-organizations.md
-    - Users: admin/admin-users.md
-    - Pages: admin/admin-pages.md
-    - Content: admin/admin-content.md
-    - Products: admin/admin-products.md
-    - Other Functionalities: admin/admin-other-functionalities.md
+  - Configuration: 
+    - Quickstart: setup/quickstart.md
+    - Your App Organzation: setup/your-app-organization.md
+    - Global Settings: setup/global-settings.md
+    - Image Settings: setup/image-settings.md
+    - Message Templates: setup/message-templates.md
+    - Model Schema: setup/model-schema.md
+    - Security: setup/security.md
+    - Taxonomy: setup/taxonomy.md
+    - Vocabularies: setup/setting-up-vocabularies.md
+    - Tags: setup/setting-up-tags.md
+  - App Console:
+    - Getting Started : app-console/getting-started.md
+    - Organizations: app-console/manage-organizations.md
+    - Users: app-console/manage-users.md
+    - Pages: app-console/manage-pages.md
+    - Content: app-console/manage-content.md
+    - Products: app-console/manage-products.md
+    - Other Functionalities: admin/other-settings.md
   - Development Guide :
-    - Quickstart : Development-Guide/Quickstart.md
-    - React SDK : Development-Guide/React-SDK.md
-    - Nuxt SDK : Development-Guide/Nuxt-SDK.md
-  - Common Use Cases :
-    - E-Commerce : Common-Use-Cases/E-Commerce.md
-    - Marketplace : Common-Use-Cases/Marketplace.md
-    - Community : Common-Use-Cases/Community.md
-    - Content Aggregation : Common-Use-Cases/Content-Aggregation.md
-    - Content Syndication : Common-Use-Cases/Content-Syndication.md    
+    - Customer Management : guide/customer-management.md
+    - Creating Web Pages : guide/creating-web-pages.md
+    - E-Commerce : guide/e-commerce.md
+    - Managing Files : guide/managing-files.md
+    - Marketplaces : guide/marketplaces.md
+    - Communities : guide/communities.md
+    - Syndication : guide/syndication.md    
+    - Aggregation : guide/aggregation.md    
+    - SEO: guide/seo.md
   - Reference:
-    - https://documenter.getpostman.com/view/17666924/VUxVrQ7S
-  - Apps:
+    - https://api.cellmobs.com
+  - Your Apps:
     - https://dev.cellmobs.com/apps
-  - Account:
-    - https://dev.cellmobs.com/account
