@@ -5,20 +5,21 @@ title: Quick Start
 
 # Quick Start
 
-Cellmobs is a platform for deploying and managing powerful software modules that can be used in any industry and by anyone. Our a la carte modules can be customized for a broad spectrum of modern business use cases: powerful enough to scale in complexity, that grows with you from day one.
+Cellmobs is a platform for deploying and managing powerful web and mobile application that can be used in any industry and by anyone. Our platform offers a wide variety of a la carte modules and features that can be customized for a broad spectrum of modern business use cases: powerful enough to scale in complexity, that grows with you from day one.
 
 So lets get started creating your very own all-in-one hosted platform solution.
 ___
 ## Creating an account
-- Navigate to [Cellmobs Sign-up Page](https://www.cellmobs.com/signup).
-- Fill in the required fields.
+
+Cellmobs offers a free tier to get you started right away. No credit card required.
+
+- To sign up, navigate to [Cellmobs Sign-up Page](https://www.cellmobs.com/signup).
+
 <figure markdown>
 [![Create Account Screen]][Create Account Screen]
-    </figure>
-
+</figure>
   [Create Account Screen]: ../assets/screenshots/quickstart/create-account.png
 
-- Click Sign Up.
 ___
 
 ## Creating your first app

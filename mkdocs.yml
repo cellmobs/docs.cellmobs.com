@@ -82,8 +82,8 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   font:
-    text: Nunito
-    code: Roboto Mono
+    text: Roboto
+    code: Courier
   favicon:  assets/logo.png
   icon:
     logo: logo
@@ -91,19 +91,19 @@ theme:
 # Plugins
 plugins:
   - search
+  - glightbox
   - redirects:
       redirect_maps:
         upgrading.md: upgrade.md
   - minify:
       minify_html: true
-
 # Customization
 extra_css:
   - stylesheets/extra.css
 extra:
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: G-1DVDQDG3HR
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/cellmobs
@@ -173,14 +173,15 @@ nav:
       - changelog/index.md
   - Configuration: 
     - Quickstart: setup/quickstart.md
-    - Your App Organzation: setup/your-app-organization.md
     - Global Settings: setup/global-settings.md
+    - Your App Organzation: setup/your-app-organization.md
+    - Security: setup/security.md
     - Image Settings: setup/image-settings.md
     - Message Templates: setup/message-templates.md
     - Model Schema: setup/model-schema.md
-    - Security: setup/security.md
     - Taxonomy: setup/taxonomy.md
     - Vocabularies: setup/setting-up-vocabularies.md
+    - Workflow: setup/setting-workflow.md
     - Tags: setup/setting-up-tags.md
   - App Console:
     - Getting Started : app-console/getting-started.md
@@ -191,6 +192,7 @@ nav:
     - Products: app-console/manage-products.md
     - Other Functionalities: admin/other-settings.md
   - Development Guide :
+    - Authentication: guide/authentication.md
     - Customer Management : guide/customer-management.md
     - Creating Web Pages : guide/creating-web-pages.md
     - E-Commerce : guide/e-commerce.md
