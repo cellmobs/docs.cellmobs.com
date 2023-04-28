@@ -24,7 +24,7 @@ By employing this two-fold security mechanism, the Cellmobs API ensures that onl
 To create an API Key go the [Apps Section](https://dev.cellmobs.com/apps){:target="_blank"} and choose the app for which you want to generate a new key. If you don't have an app yet we suggest you consult our [Quickstart Guide](/setup/quickstart).
 
 <figure markdown>
-![Configure Organization Roles](/assets/guide/generate-api-key.png){loading=lazy}
+![Configure Organization Roles](../assets/guide/generate-api-key.png){loading=lazy}
     <figcaption>Apps: Active API Keys</figcaption>
 </figure>
 

@@ -65,7 +65,7 @@ Click here for more details on how to [Manage Organizations](/app-console/manage
 To manage the Organization roles for an application login to the app console and open the `Settings` -> `Security` page. "Create a new Role" and assign the desired permissions for the role. `CREATE` permission inherit `READ` permissions so no needs to check `READ` permissions if you have the corresponding `CREATE` permission. 
 
 <figure markdown>
-![Configure Organization Roles](/assets/configuration/acl-security.png){loading=lazy}
+![Configure Organization Roles](../assets/configuration/acl-security.png){loading=lazy}
     <figcaption>Configure Organization Roles</figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ To manage the Organization roles for an application login to the app console and
 Once you saved your new role, you can assign it to an Organizations using the `Member` tab in the [Organization editor](/app-console/manage-organizations).  
 
 <figure markdown>
-![Configure Organization Roles](/assets/screenshots/admin/admin-organization-3.png){loading=lazy}
+![Configure Organization Roles](../assets/screenshots/admin/admin-organization-3.png){loading=lazy}
     <figcaption>Configure Organization Roles</figcaption>
 </figure>
 
