@@ -190,6 +190,7 @@ nav:
     - Pages: app-console/manage-pages.md
     - Content: app-console/manage-content.md
     - Products: app-console/manage-products.md
+    - Tags: app-console/manage-tags.md
     - Other Functionalities: admin/other-settings.md
   - Development Guide :
     - Authentication: guide/authentication.md
