@@ -5,10 +5,10 @@ title: Cellmobs Documentation
 
 # Welcome to the Documentation
 
-## Getting Started
+### [Getting Started](getting-started)
 
-## Configuration
+### [Configuration](/setup-and-management)
 
-## App Console
+### [App Console](/app-console/)
 
-## Development Guide
+### [Development Guide](/development-guide)
