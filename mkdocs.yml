@@ -83,7 +83,7 @@ theme:
         name: Switch to light mode
   font:
     text: Roboto
-    code: Courier
+    code: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace
   favicon:  assets/logo.png
   icon:
     logo: logo

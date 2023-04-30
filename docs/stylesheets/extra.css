@@ -28,3 +28,6 @@
    color:#333333;
    font-weight: 500;
 }
+.md-typeset code {
+   font-size: 0.75em;
+}

@@ -42,7 +42,7 @@ curl --location
 --header 'x-api-key: my-api-key'
 
 ```
-
+<br>
 
 ## Rate Limiting
 
@@ -54,4 +54,4 @@ If the default allocation of 1,000 tokens per minute is not sufficient for your 
 
 This approach to rate limiting ensures fair resource usage among all apps on the Cellmobs platform while providing the flexibility for subscribers to request adjustments based on their specific needs.
 
-----
+<br>

@@ -47,6 +47,8 @@ Click here for more details on how to [Manage Users](/app-console/manage-users)
 !!! note
     `(Orgs)` means that a role only has access to the section in the context of its permissions assigned by its Organization roles. It will only see and be able to modify entities associated with those organizations.
 
+<br>
+
 ## Organization Roles
 
 Global roles and organization roles serve distinct purposes within a system, catering to different aspects of access control and user management.
@@ -78,6 +80,7 @@ Once you saved your new role, you can assign it to an Organizations using the `M
     <figcaption>Configure Organization Roles</figcaption>
 </figure>
 
+<br>
 
 ## Permissions
 
@@ -149,3 +152,4 @@ By utilizing ACL permissions, organizations can ensure that each user has the ap
 
 
 
+<br>
