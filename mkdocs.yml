@@ -178,24 +178,30 @@ nav:
     - Security: setup/security.md
     - Image Settings: setup/image-settings.md
     - Message Templates: setup/message-templates.md
-    - Model Schema: setup/model-schema.md
+    - Data Model &amp; Schema: setup/model-schema.md
     - Taxonomy: setup/taxonomy.md
     - Vocabularies: setup/setting-up-vocabularies.md
     - Workflow: setup/setting-up-workflow.md
     - Integrations: setup/setting-up-integrations.md
     - Tags: setup/setting-up-tags.md
   - App Console:
-    - Getting Started : app-console/getting-started.md
+    - Overview : app-console/console-overview.md
+    - Logging In : app-console/console-login.md
     - Organizations: app-console/manage-organizations.md
     - Users: app-console/manage-users.md
     - Pages: app-console/manage-pages.md
     - Content: app-console/manage-content.md
     - Products: app-console/manage-products.md
+    - Orders: app-console/manage-orders.md
+    - Subscriptions: app-console/manage-subscriptions.md
     - Integrations: app-console/manage-integrations.md
     - Tags: app-console/manage-tags.md
-    - Other Functionalities: admin/other-settings.md
+    - Templates: app-console/manage-templates.md
+    - Taxonomy: app-console/manage-taxonomy.md
+    - Workflow: app-console/manage-workflow.md
+    - Other Functionalities: app-console/other-settings.md
   - Development Guide :
-    - Overview: development-guide.md
+    - Overview: guide/development-guide.md
     - Authentication: guide/authentication.md
     - Customer Management : guide/customer-management.md
     - Creating Web Pages : guide/creating-web-pages.md

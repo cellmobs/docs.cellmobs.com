@@ -1,16 +1,16 @@
 ---
 template: overrides/main.html
-title: Model &amp; Schema
+title: Data Model &amp; Schema
 ---
 
-# Model &amp; Schema
+# Data Model &amp; Schema
 
 Setting up.
 
-## Configuring Custome Fields
+## Configuring Custom Fields
 Before we get started
 
-## Model Entity Requirements
+## Entity Requirements
 Before we get started
 
 ## Custom Models
