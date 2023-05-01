@@ -44,6 +44,13 @@ curl --location
 ```
 <br>
 
+## reCAPTCHA
+
+## Multi-Factory Authentication (MFA)
+
+## SAML Support
+
+
 ## Rate Limiting
 
 Cellmobs employs a rate limiting mechanism using token bucket allocation to manage and control the rate at which API requests are processed for each app. This method helps maintain the stability and performance of the platform, ensuring a consistent and reliable experience for our customers and their users.

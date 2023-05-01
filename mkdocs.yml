@@ -182,6 +182,7 @@ nav:
     - Taxonomy: setup/taxonomy.md
     - Vocabularies: setup/setting-up-vocabularies.md
     - Workflow: setup/setting-up-workflow.md
+    - Integrations: setup/setting-up-integrations.md
     - Tags: setup/setting-up-tags.md
   - App Console:
     - Getting Started : app-console/getting-started.md
@@ -190,6 +191,7 @@ nav:
     - Pages: app-console/manage-pages.md
     - Content: app-console/manage-content.md
     - Products: app-console/manage-products.md
+    - Integrations: app-console/manage-integrations.md
     - Tags: app-console/manage-tags.md
     - Other Functionalities: admin/other-settings.md
   - Development Guide :
