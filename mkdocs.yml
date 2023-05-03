@@ -180,24 +180,25 @@ nav:
     - Message Templates: setup/message-templates.md
     - Data Model &amp; Schema: setup/model-schema.md
     - Taxonomy: setup/taxonomy.md
-    - Vocabularies: setup/setting-up-vocabularies.md
     - Workflow: setup/setting-up-workflow.md
     - Integrations: setup/setting-up-integrations.md
     - Tags: setup/setting-up-tags.md
   - App Console:
     - Overview : app-console/console-overview.md
-    - Logging In : app-console/console-login.md
-    - Organizations: app-console/manage-organizations.md
-    - Users: app-console/manage-users.md
-    - Pages: app-console/manage-pages.md
     - Content: app-console/manage-content.md
-    - Products: app-console/manage-products.md
-    - Orders: app-console/manage-orders.md
-    - Subscriptions: app-console/manage-subscriptions.md
     - Integrations: app-console/manage-integrations.md
+    - Logging In : app-console/console-login.md
+    - Orders: app-console/manage-orders.md
+    - Organizations: app-console/manage-organizations.md
+    - Pages: app-console/manage-pages.md
+    - Products: app-console/manage-products.md
+    - Requirements: app-console/manage-requirements.md
+    - Subscriptions: app-console/manage-subscriptions.md
     - Tags: app-console/manage-tags.md
     - Templates: app-console/manage-templates.md
     - Taxonomy: app-console/manage-taxonomy.md
+    - Users: app-console/manage-users.md
+    - Vocabularies: app-console/manage-vocabularies.md
     - Workflow: app-console/manage-workflow.md
     - Other Functionalities: app-console/other-settings.md
   - Development Guide :
