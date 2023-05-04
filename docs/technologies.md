@@ -67,7 +67,7 @@ Kafka is an excellent platform for asynchronous event-driven systems for several
 
 ## Freemarker 
 
-All message templates in Cellmobs are based on the [Freemarker](https://freemarker.apache.org/){target="_blank"} template format, a widely-used, powerful, and flexible template engine for Java-based applications. Freemarker enables developers to create dynamic and customizable message templates for Emails, SMS/Text messages, and internal messages, ensuring consistent and engaging communication experiences within their application (see Technologies for more details).
+All message templates in Cellmobs are based on the [Freemarker](https://freemarker.apache.org/){:target="_blank"} template format, a widely-used, powerful, and flexible template engine for Java-based applications. Freemarker enables developers to create dynamic and customizable message templates for Emails, SMS/Text messages, and internal messages, ensuring consistent and engaging communication experiences within their application (see Technologies for more details).
 
 Freemarker template format provides several benefits, including:
 

@@ -7,5 +7,4 @@ title: Taxonomy
 
 ## Localization
 
-## Tags
 

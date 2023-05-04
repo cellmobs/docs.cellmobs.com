@@ -8,7 +8,7 @@ title: Setup and Management
 The are two main parts to creating, configuring, and managing your Cellmobs apps, the **Your Apps** section on the main [[Cellmobs website](https://www.cellmobs.com/apps{target="_blank"}, and dedicated App Console sites that are created for each of the apps you provision.
 
 ## Your Apps 
-The [Your Apps](https://www.cellmobs.com/apps{target="_blank"}) section in the Cellmobs websiote provides users with a centralized location to manage the main aspects of their apps, such as creating new apps, generating new API keys, monitoring app activity and usage, and reviewing billing statements. 
+The [Your Apps](https://www.cellmobs.com/apps{:target="_blank"}) section in the Cellmobs websiote provides users with a centralized location to manage the main aspects of their apps, such as creating new apps, generating new API keys, monitoring app activity and usage, and reviewing billing statements. 
 
 <figure markdown>
 ![Your Apps](../assets/guide/app-key-dns.png){width="100%" loading=lazy}

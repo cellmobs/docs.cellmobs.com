@@ -38,11 +38,14 @@ The console offers tools to manage all billing-related issues, including invoice
 ### :material-api:&nbsp; [API Integrations](/app-console/manage-integrations) 
 The console provides tools for configuring API integrations with popular cloud apps and services. By connecting your app to third-party platforms, you can extend its functionality, streamline workflows, and improve the overall user experience.
 
-### :material-email:&nbsp; [Message Templates](/app-console/manage-templates)
+### :material-email:&nbsp; [Templates](/app-console/manage-templates)
 The console enables you to design and configure message templates for various communication channels, such as email, SMS, and system messages. This feature allows you to create consistent and personalized messages that align with your brand identity and tone.
 
 ### :material-table:&nbsp; [Data Models & Taxonomy](/app-console/manage-taxonomy)
 The console allows you to customize and design your data model, defining the structure and relationships between different entities in your application. By tailoring your data model, you can ensure that it accurately represents your business requirements and supports the desired functionality.
+
+### :material-view-list:&nbsp; [Vocabularies](/app-console/manage-vocabularies) 
+Learn how to configure and manage Vocabularies to customize and adapt your app to specific use cases and requirements.
 
 ### :material-graph:&nbsp; [Workflow Automation](/app-console/manage-workflow)
 The console provides tools for automating various tasks and processes within your application, such as data validation, notifications, and report generation. By automating repetitive tasks, you can improve efficiency and reduce the likelihood of errors.
