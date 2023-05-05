@@ -80,8 +80,8 @@ These are predefined vocabularies provided by Cellmobs that cover common scenari
 |`LEAD_TYPE`| |  :material-check: |
 |`LOCATION_TYPE`| |  :material-check: |
 |`ORDER_STATUS`| |  :material-check: |
-|`ORGANIZATION_ROLE`| |  :material-check: |
-|`ORGANIZATION_TYPE`| |  :material-check: |
+|`ORGANIZATION_ROLE`|  |  :material-check: |
+|`ORGANIZATION_TYPE`| The organization type |  :material-check: |
 |`PAGE_TYPE`| |  :material-check: |
 |`PORT`| |  :material-check: |
 |`PRICE_TYPE`| |  :material-check: |
@@ -91,24 +91,24 @@ These are predefined vocabularies provided by Cellmobs that cover common scenari
 |`PRODUCT_TYPE`| |  :material-check: |
 |`PROFIT_TYPE`| |  :material-check: |
 |`PROVIDER`| |  :material-check: |
-|`RATING_TYPE`| |  :material-check: |
+|`RATING_TYPE`| `STAR`, `THUMBS`, `COMMENT`|   |
 |`RECURRENCE_TYPE`| |  :material-check: |
-|`REFERENCE_TYPE`| |  :material-check: |
-|`RENDER_TYPE`| |  :material-check: |
-|`RENDITION_TYPE`| |  :material-check: |
+|`REFERENCE_TYPE`| The type of reference between entities |  :material-check: |
+|`RENDER_TYPE`| The template rendering type | |
+|`RENDITION_TYPE`| The type of rendition |  :material-check: |
 |`REQUEST_TYPE`| |  :material-check: |
 |`REQUIREMENT_REQUEST_FIELD`| |  :material-check: |
 |`RESULT_STATUS`| |  :material-check: |
 |`RESULT_TYPE`| |  :material-check: |
-|`ROUNDING_MODE`| |  :material-check: |
-|`STATE`| |  :material-check: |
-|`TAG_TYPE`| |  :material-check: |
-|`TASK_STATUS`| |  :material-check: |
-|`TASK_TYPE`| |  :material-check: |
-|`TAX_LEVEL`| |  :material-check: |
-|`TAX_STATUS`| |  :material-check: |
-|`TAX_TYPE`| |  :material-check: |
-|`TEMPLATE_TYPE`| |  :material-check: |
+|`ROUNDING_MODE`| The mode for rounding numeric values | |
+|`STATE`| The US State |   |
+|`TAG_TYPE`| The type of a hierarchy of Tags |  :material-check: |
+|`TASK_STATUS`| The tax status |  :material-check: |
+|`TASK_TYPE`| The type of task of Work entity  |  :material-check: |
+|`TAX_LEVEL`| The level where the tax or fee is applied | |
+|`TAX_STATUS`| The tax status of an Order |  :material-check: |
+|`TAX_TYPE`| The type of tax or fee |  :material-check: |
+|`TEMPLATE_TYPE`| If a template is a Child or Root | |
 |`UNIT_TYPE`| |  :material-check: |
 |`VOCABULARY_TYPE`| |  :material-check: |
 |`WEBPAGE_FIELD`| |  :material-check: |
@@ -117,3 +117,4 @@ These are predefined vocabularies provided by Cellmobs that cover common scenari
 |`WORK_TYPE`||
 
 <br><br>
+
