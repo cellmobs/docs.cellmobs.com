@@ -156,14 +156,12 @@ markdown_extensions:
 nav:
   - Home: https://dev.cellmobs.com
   - Getting started:
-    - Installation: getting-started.md
+    - Introduction: getting-started.md
+    - Create your first App: setup/creating-apps.md
     - React SDK : setup/react-sdk.md
     - Nuxt SDK : setup/nuxt-sdk.md
-    - Create Apps: setup/creating-apps.md
-    - Creating your site: setup/creating-a-website.md
     - Customization: customization.md
-    - React/NextJS SDK: get-started-with-react-and-nextjs.md
-    - Vue/Nuxt SDK: get-started-with-vue-and-nuxt.md
+    - Creating your site: setup/creating-a-website.md
     - Philosophy: philosophy.md
     - Technologies: technologies.md
     - Alternatives: alternatives.md

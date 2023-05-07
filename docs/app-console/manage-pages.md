@@ -5,6 +5,28 @@ title: Pages
 
 # Pages
 
+Pages are the primary entity for configuring and managing web page templates, metadata, and content. They are encapsulated within the Cellmobs WebPage entity, which serves as the foundation for creating and organizing the structure of a web application.
+
+WebPage entities allow developers to define the layout, design, and components of a web page, ensuring consistency and ease of management across the entire application. By using a WebPage entity, developers can create various types of pages, such as landing pages, blog posts, product pages, and more, all while maintaining a uniform look and feel.
+
+Metadata associated with WebPage entities plays a crucial role in search engine optimization ([SEO](/guide/seo)) and accessibility. Developers can specify metadata such as title, description, keywords, and other relevant information to optimize their pages for search engines and provide a better user experience.
+
+Content within a WebPage entity is flexible and can include text, images, videos, and other multimedia elements, enabling developers to create rich and engaging web pages that cater to their specific needs and target audience. WebPage content can be static or dynamic and fetched from the database and dynamically rendered through page ]template](/app-console/manage-templates/#web-) fragments. 
+
+
+## Primary Content
+
+## HTML Editor
+
+## Request
+
+## Template
+
+## Metadata
+
+## A/B Testing
+
+
 As the organizational administrator, you hold the power to manage the application’s pages which were already created i.e., enable/disable a page to show up in the application.
 
 For example : If a user wants to enable a new login page for their website (which was already created) 

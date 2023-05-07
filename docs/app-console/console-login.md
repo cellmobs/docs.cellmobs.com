@@ -5,7 +5,7 @@ title: Console Login
 
 # App Console Login
 
-Each Cellmobs App is configured and managed through the [Cellmobs App Console :fontawesome-solid-table-columns:](/app-console/getting-started), a powerful and user-friendly interface that provides you with all the tools necessary to manage every aspect of your application. 
+Each Cellmobs App is configured and managed through the [Cellmobs App Console :fontawesome-solid-table-columns:](/app-console/console-overview), a powerful and user-friendly interface that provides you with all the tools necessary to manage every aspect of your application. 
 
 The console, accessible via a dedicated url that is configured whenever you create a new Cellmobs App in the cellmobs.com website (e.g. **myapp.console.cellmobs.com** ). 
 
