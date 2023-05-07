@@ -6,9 +6,41 @@ title: Organizations
 
 # Organizations
 
-As the organizational administrator, you hold the power to create and manage your organizations using the [Admin Console Organization Section](https://console.cellmobs.com/admin/organizations/list)
+In Cellmobs, the `Organization` entity serves as the central and most crucial component of the platform, as it connects and regulates access to almost every other entity. An Organization is responsible for defining the structure and access levels of various data points, ensuring proper management and control over the application.
+
+Some of the key relationships and properties of an Organization include:
+
+- **Members**: Members are the users associated with an Organization. They can have different roles and permissions, which determine their level of access and functionality within the organization.
+- **Products**: Products are goods or services offered by the Organization. They can be physical items, digital content, or services provided by the organization to its customers.
+- **Subscribers**: Subscribers are users who have opted in to receive updates and communications from the Organization, typically via email, SMS, or other messaging platforms.
+- **Locations**: Locations represent physical or virtual addresses associated with the Organization, such as offices, stores, warehouses, or online presence.
+- **Accounts**: Locations represent physical or virtual addresses associated with the Organization, such as offices, stores, warehouses, or online presence.
+- **Payment Processors**: Locations represent physical or virtual addresses associated with the Organization, such as offices, stores, warehouses, or online presence.
+- **Custom Roles**: Transactions are records of financial activities within the Organization, including payments, refunds, and other monetary exchanges.
+- **Custom Fields**: Content encompasses all file-based data associated with the Organization, such as images, documents, videos, and more.
+
+To configure and manage an Organization, developers and administrators can use the App Console (or the APIs).
+
 ___
-## Creating an organization
+## Creating an Organization
+
+## Managing Members
+
+### Add &amp; Remove Members
+
+### Invite Members
+
+## Manage Locations
+
+## Manage Accounts
+
+## Payment Processors
+
+## Add Custom Roles
+
+## Add Custom Fields
+
+
 - Click on Add Organization 
 - Upload the logo of the company 
 - Enter the name of the column 

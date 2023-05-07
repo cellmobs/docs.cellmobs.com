@@ -5,9 +5,41 @@ title: Users
 
 # Users
 
-As the usersal administrator, you hold the power to to add, import, and invite users to join your users, as well as control the user's access rights and change the user's role and location. 
+Users of your application are represented by the `Identity` entity. Each user is assigned a single [Global Role](/setup/security#global-roles) that determines their access level and permissions within the app. 
+
+For customers or regular users, they are typically assigned the `ROLE_USER`. This role provides them with basic access to the application, allowing them to interact with the app's features and functionality in a limited capacity. If your application has more tiered access levels or requires additional permissions for certain users, you can configure these using [Organization Roles](/setup/security/#organization-roles), which offer more granular control over user permissions.
+
+For team members who require elevated access to your application, such as developers, sales, or customer support teams, you should consider assigning a higher-level role. Some examples of these elevated roles include:
+
+**`ROLE_EDITOR`**: This role allows users to create, edit, and manage content within the application, such as products, articles, or other content types.
+
+**`ROLE_MANAGER`**: Users with this role have increased access to administrative functions, including managing user accounts, overseeing transactions, and monitoring application performance.
+
+**`ROLE_ADMIN`**: The `ROLE_ADMIN` provides the highest level of access to the application, allowing users to manage all aspects of the app, including configuration, user management, and system settings.
+
+Assigning appropriate roles to your users is crucial for maintaining the security and integrity of your application. It helps ensure that users have the necessary permissions to perform their tasks while preventing unauthorized access to sensitive information or critical app functions.
+
+<br>
+
+!!! info 
+    Any role higher than `ROLE_USER` is considered a Team Member role and would impact the total number of users on your [Cellmobs Account](https://www.cellmobs.com/account). 
+
+    For Identity data such as general contacts you can assign the role `ROLE_NONUSER`. This users with this role will be assigned a random passsword and will not be able to login until their role is elevated to at least `ROLE_USER`. 
+
+
+
+
+As the administrator, you hold the power to to add, import, and invite users to join your users, as well as control the user's access rights and change the user's role and location. 
+
 ___
+
 ## Add Users
+
+## Notifications
+
+## Payment Options
+
+
 We can invite users to the users. Invitations will be sent to the specified email addresses. They will be added to the users only based on their approval. 
 
 - Go to the [Users Section](https://console.cellmobs.com/admin/users/list) 

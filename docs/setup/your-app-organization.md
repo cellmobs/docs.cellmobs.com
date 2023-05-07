@@ -39,4 +39,6 @@ Organizations in the Cellmobs platform are a flexible and versatile feature that
 
 The flexibility and adaptability of Organizations within the Cellmobs platform enable you to tailor the feature to your specific application requirements and use cases. By leveraging Organizations, you can create a more organized, efficient, and user-friendly experience, ensuring that users can easily navigate and interact with the various aspects of your app.
 
+Click here to learn how to [configure Organizations](/app-console/manage-organizations).
+
 <br><br>

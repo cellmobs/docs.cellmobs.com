@@ -5,7 +5,7 @@ title: Pages
 
 # Pages
 
-Pages are the primary entity for configuring and managing web page templates, metadata, and content. They are encapsulated within the Cellmobs WebPage entity, which serves as the foundation for creating and organizing the structure of a web application.
+Pages are the primary entity for configuring and managing web page templates, metadata, and content. They are encapsulated within the Cellmobs `WebPage` entity, which serves as the foundation for creating and organizing the structure of a web application.
 
 WebPage entities allow developers to define the layout, design, and components of a web page, ensuring consistency and ease of management across the entire application. By using a WebPage entity, developers can create various types of pages, such as landing pages, blog posts, product pages, and more, all while maintaining a uniform look and feel.
 
