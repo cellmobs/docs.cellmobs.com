@@ -48,6 +48,7 @@ ___
 [Admin Products 3]: ../assets/screenshots/admin/admin-products-3.png -->
 
 
+
 **1. Navigate to /admin/products/list**
 
 **2. Click "New Product"**
@@ -70,7 +71,7 @@ ___
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-05-05/f1cd0eb4-d89d-4396-ab55-018029376c7e/user_cropped_screenshot.jpeg?tl_px=0,496&br_px=746,916&sharp=0.8&width=560&wat_scale=50&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=169,174)
 
-**7. Type to find to find and select a seller Organization  (required)**
+**7. Type to find and select a seller Organization  (required)**
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-05-05/e8ddc04c-1e83-476d-8831-aca8c693079c/user_cropped_screenshot.jpeg?tl_px=0,575&br_px=746,995&sharp=0.8&width=560&wat_scale=50&wat=1&wat_opacity=1&wat_gravity=northwest&wat_url=https://colony-recorder.s3.amazonaws.com/images/watermarks/F43F5E_standard.png&wat_pad=61,255)
 

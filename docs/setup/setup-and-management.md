@@ -5,10 +5,10 @@ title: Setup and Management
 
 # Setup and Management
 
-The are two main parts to creating, configuring, and managing your Cellmobs apps, the **Your Apps** section on the main [[Cellmobs website](https://www.cellmobs.com/apps{target="_blank"}, and dedicated App Console sites that are created for each of the apps you provision.
+The are two main parts to creating, configuring, and managing your Cellmobs apps, the **Your Apps** section on the main [Cellmobs website](https://www.cellmobs.com/apps){target="_blank"}, and dedicated App Console sites that are created for each of the apps you provision.
 
 ## Your Apps 
-The [Your Apps](https://www.cellmobs.com/apps{:target="_blank"}) section in the Cellmobs websiote provides users with a centralized location to manage the main aspects of their apps, such as creating new apps, generating new API keys, monitoring app activity and usage, and reviewing billing statements. 
+The [Your Apps](https://www.cellmobs.com/apps){:target="_blank"} section in the Cellmobs website provides users with a centralized location to manage the main aspects of their apps, such as creating new apps, generating new API keys, monitoring app activity and usage, and reviewing billing statements. 
 
 <figure markdown>
 ![Your Apps](../assets/guide/app-key-dns.png){width="100%" loading=lazy}
@@ -25,7 +25,7 @@ Some of the key functionalities of the "Your Apps" section include:
 
 
 ## App Console
-Each Cellmobs App is configured and managed through a [Cellmobs App Console :fontawesome-solid-table-columns:](/app-console/getting-started), a powerful and user-friendly interface that provides you with all the tools necessary to manage every aspect of your application. The console, accessible via a dedicated url that is configured whenever you create a new Cellmobs App in the cellmobs.com website (e.g. myapp.console.cellmobs.com ). 
+Each Cellmobs App is configured and managed through a [Cellmobs App Console :fontawesome-solid-table-columns:](/app-console/console-overview), a powerful and user-friendly interface that provides you with all the tools necessary to manage every aspect of your application. The console, accessible via a dedicated url that is configured whenever you create a new Cellmobs App in the cellmobs.com website (e.g. myapp.console.cellmobs.com ). 
 
 <figure markdown>
 ![App Console](../assets/app-console/app-console-home.png){width="100%" loading=lazy}

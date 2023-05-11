@@ -172,7 +172,7 @@ nav:
     - Quickstart: setup/quickstart.md
     - Setup &amp Management: setup/setup-and-management.md
     - Global Settings: setup/global-settings.md
-    - Your App Organzation: setup/your-app-organization.md
+    - Your App Organization: setup/your-app-organization.md
     - Security: setup/security.md
     - Image Settings: setup/image-settings.md
     - Message Templates: setup/message-templates.md
@@ -184,6 +184,7 @@ nav:
   - App Console:
     - Overview : app-console/console-overview.md
     - Content: app-console/manage-content.md
+    - Data: app-console/manage-data.md
     - Integrations: app-console/manage-integrations.md
     - Logging In : app-console/console-login.md
     - Orders: app-console/manage-orders.md

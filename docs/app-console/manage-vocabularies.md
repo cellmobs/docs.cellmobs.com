@@ -19,20 +19,20 @@ To edit a custom Vocabulary navigate to `/admin/vocab/list` in the console of yo
 
 
 
-1. All editable Vocabularies will be labeled  <span style="color:green;background:#c0f8e3;font-size:11px;padding:4px;">Yes</span>, those that are not will be  <span style="color:red;background:#f3c0c2;font-size:11px;padding:4px;">No</span>
+**1. All editable Vocabularies will be labeled  <span style="color:green;background:#c0f8e3;font-size:11px;padding:4px;">Yes</span>, those that are not will be  <span style="color:red;background:#f3c0c2;font-size:11px;padding:4px;">No</span>**
 
-2. To edit a `CUSTOM` Vocabulary click the edit icon in the ACTIONS column
+**2. To edit a `CUSTOM` Vocabulary click the edit icon in the ACTIONS column**
 
-3. This will open the Vocabulary editor screen
+**3. This will open the Vocabulary editor screen**
 
-4. Each Voculary entry (aka `TypeValue`), requires at minimum a Name. All other fields are options. 
+**4. Each Voculary entry (aka `TypeValue`), requires at minimum a Name. All other fields are options.**
 
 <figure markdown>
 ![Edit Vocabulary](../assets/app-console/edit-vocabulary.png){loading=lazy}
     <figcaption>Edit Vocabulary</figcaption>
 </figure>
 
-5. Use the form above to add new entries, or click on the values of an existing field (red dotted) to edit its value.
+**5. Use the form above to add new entries, or click on the values of an existing field (red dotted) to edit its value.**
 
 <figure markdown>
 ![Edit Vocabulary](../assets/app-console/edit-vocabulary-entry.png){width="80%",loading=lazy}
