@@ -186,6 +186,7 @@ nav:
     - Content: app-console/manage-content.md
     - Data: app-console/manage-data.md
     - Integrations: app-console/manage-integrations.md
+    - Localization: app-console/manage-localization.md
     - Logging In : app-console/console-login.md
     - Orders: app-console/manage-orders.md
     - Organizations: app-console/manage-organizations.md
@@ -195,7 +196,6 @@ nav:
     - Subscriptions: app-console/manage-subscriptions.md
     - Tags: app-console/manage-tags.md
     - Templates: app-console/manage-templates.md
-    - Taxonomy: app-console/manage-taxonomy.md
     - Users: app-console/manage-users.md
     - Vocabularies: app-console/manage-vocabularies.md
     - Workflow: app-console/manage-workflow.md
