@@ -42,7 +42,7 @@ Click here for more details on how to [Manage Templates](/app-console/manage-tem
 | Template | Type | Subject |
 |-------------|-----------|----------|
 |`account-invitation`|`EMAIL`|Account Invitation|
-|`contact-me-auto-reply`|`EMAIL`|Auto Reponse to Contact Form|
+|`lead-auto-reply`|`EMAIL`|Auto Reponse to Contact Form or Lead|
 |`datapoint-api-request-limit-alert`|`EMAIL`|API Requests Limit Reached|
 |`contact-request-alert`|`EMAIL`|Contact Request Alert|
 |`datapoint-dns-not-found-alert`|`EMAIL`|DNS Not Found|

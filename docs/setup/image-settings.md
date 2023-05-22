@@ -11,7 +11,7 @@ Depending on your application requirements, there is no limit to the number of I
 
 ## File Types
 
-`FILE_TYPE` is a Cellmobs [Vocabulary](/setup/setting-up-vocabularies), and while new file types can be added and removed, there are a set of `SYSTEM` file types that each application should retain as they are used throughout the platform. 
+`FILE_TYPE` is a Cellmobs [Vocabulary](/app-console/manage-vocabularies), and while new file types can be added and removed, there are a set of `SYSTEM` file types that each application should retain as they are used throughout the platform. 
 
 
 <figure markdown>

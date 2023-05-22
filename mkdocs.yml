@@ -157,19 +157,16 @@ nav:
   - Home: https://dev.cellmobs.com
   - Getting started:
     - Introduction: getting-started.md
-    - Create your first App: setup/creating-apps.md
+    - Quickstart: setup/quickstart.md
+    - Your first App: setup/creating-apps.md
     - React SDK : setup/react-sdk.md
     - Nuxt SDK : setup/nuxt-sdk.md
-    - Customization: customization.md
-    - Creating your site: setup/creating-a-website.md
     - Philosophy: philosophy.md
     - Technologies: technologies.md
     - Alternatives: alternatives.md
-    - License: license.md
     - Changelog:
       - changelog/index.md
   - Configuration:  
-    - Quickstart: setup/quickstart.md
     - Setup &amp Management: setup/setup-and-management.md
     - Global Settings: setup/global-settings.md
     - Your App Organization: setup/your-app-organization.md
@@ -204,7 +201,6 @@ nav:
     - Overview: guide/development-guide.md
     - Authentication: guide/authentication.md
     - Customer Management : guide/customer-management.md
-    - Creating Web Pages : guide/creating-web-pages.md
     - E-Commerce : guide/e-commerce.md
     - Managing Files : guide/managing-files.md
     - Marketplaces : guide/marketplaces.md

@@ -5,7 +5,7 @@ title: React SDK
 
 # React SDK
 
-Cellmobs provides a React SDK that allows us to easily build a UI for our site.
+Cellmobs provides a React SDK that allows us to easily build a UI for your application.
 
 It is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) which sets up the basic framework for developing Cellmobs clients using [React.js](https://reactjs.org/) and Next.js. 
 
