@@ -5,22 +5,34 @@ title: React SDK
 
 # React SDK
 
-Cellmobs provides a React SDK that allows us to easily build a UI for your application.
-
+Cellmobs provides a comprehensive Software Development Kit (SDK) designed for React.js and Next.js applications to ensure a smoother, faster development process. 
 It is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) which sets up the basic framework for developing Cellmobs clients using [React.js](https://reactjs.org/) and Next.js. 
 
-## Cloning the project
-Before we get started, we need to fulfill the following dependencies
+Here are the main features of this SDK:
 
-- Git
-- Node Js
-- A suitable code editor (e.g. Visual Studio Code)
-- Access to Bitbucket
+- **Pre-Built Components:**
+The React SDK comes with a range of pre-built components that can be readily used in your application. These include components for authentication, form fields, data lists, page fragments. and various user interface elements. Using these pre-built components can significantly reduce development time and ensure consistency across your application.
+
+- **Request Mapping Framework:**
+The SDK includes a complete request mapping framework for the Cellmobs REST API and statement management through Redux. This framework provides simplified, promise-based methods for making requests to the API, abstracting the underlying HTTP methods. This means you don't need to manually craft HTTP requests or parse responses. 
+For example, to fetch data from an endpoint, you can use the SDK's methods with simple parameters. The SDK handles the complexities of constructing the correct API call, sending it, and interpreting the response. 
+
+- **Customizable and Extensible:**
+While the SDK provides a lot of functionality out of the box, it's also designed to be customizable and extensible. You can extend the pre-built components or the request mapping framework to suit your specific needs. 
+
+
+## Cloning the project
+Before you get started, you need to install the following dependencies:
+
+- [Git](https://github.com/git-guides/install-git){:target="_blank"} 
+- [Node Js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm){:target="_blank"} 
+- A suitable code editor (e.g. [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"})
+- Access to [Github](https://github.com/cellmobs/cellmobs-react-sdk)
 
 Once done, open a terminal and enter the following command
 ```bash
-$ git clone https://<USER>@bitbucket.org/cellmobs/cellmobs-react.git
-$ cd cellmobs-react
+$ git clone https://github.com/cellmobs/cellmobs-react-sdk
+$ cd cellmobs-react-sdk
 ```
 
 ## Getting Started
@@ -52,17 +64,6 @@ export const API_BASE_URL = "https://dev.cellmobs.com/rest";
 export const CDN_BASE_URL = "https://cdn.cellmobs.com/";
 export const ADMIN_BASE_URL = "https://dev.cellmobs.com";
 ```
-## Testing
-
-There is currently an issue with axios accepting unsigned SSL certificates which makes local API connection difficult.
-There are several workaround to make axios accept invalid certificates, but I haven't been able to make them work yet.
-
-```javascript
-
-axios.defaults.httpsAgent = new https.Agent({ rejectUnauthorized: true }); // Not working
-```
-Another option is to add the self-signed certificated of the local API host to your certificate store as described here:
-https://nishabe.medium.com/how-to-add-ssl-cert-to-the-java-trust-store-bbd1a52940c2
 
 ## Adding new pages
 One of Next.js's best features is its support for a file-system-based router. This means that to create a new page, we

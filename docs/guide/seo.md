@@ -5,20 +5,20 @@ title: SEO
 
 # SEO
 
-Setting up ...
+Guide will be availble soon!
 
 
 ## Page Metadata
-Before we get started
+Guide will be availble soon!
 
 ## Page Urls
-Before we get started
+Guide will be availble soon!
 
 ## Server Side Rendering
-Before we get started
+Guide will be availble soon!
 
 ## Analytics
-Before we get started
+Guide will be availble soon!
 
 ## Sitemaps
-Before we get started
+Guide will be availble soon!

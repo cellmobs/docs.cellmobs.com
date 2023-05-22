@@ -5,7 +5,7 @@ title: Communities
 
 # Communities
 
-Build communities
+Guide will be availble soon!
 
 
 

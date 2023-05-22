@@ -77,9 +77,31 @@ Freemarker template format provides several benefits, including:
 - **Rich formatting and styling**: Freemarker templates support rich text formatting and styling options, which allow developers to create visually appealing and professional-looking messages. This ensures that the messages align with the application's branding and design guidelines, enhancing the overall user experience.
 
 
-## React 
+## React.js / Next.js
+
+React.js and Next.js are two modern JavaScript frameworks that offer a range of benefits for developing applications on the Cellmobs platform. Here are some of the main advantages:
+
+- **Component-Based Architecture:**
+React.js uses a component-based architecture. This means you can build encapsulated components that manage their own state, then compose them to make complex UIs. It's an effective way to build modular and reusable user interface components, which can greatly speed up development.
+
+- **Server-Side Rendering (SSR) with Next.js:**
+Next.js provides an easy way to build web applications with server-side rendering, which is crucial for SEO and initial page load performance. It allows your app to render HTML on the server before it hits the client's browser, providing faster load times and a better user experience.
+
+- **Ease of Integration:**
+Both React.js and Next.js can be easily integrated with the Cellmobs platform. You can fetch data from the Cellmobs API and use it within your components. Also, the Cellmobs SDK can be utilized to simplify data fetching and manipulation.
+
+- **High Performance:**
+React.js uses a virtual DOM which optimizes rendering and improves app performance. The diffing algorithm used by React minimizes the number of operations needed to update the DOM. Next.js, on the other hand, optimizes performance by pre-rendering pages on the server-side.
+
+- **Scalability:**
+React.js and Next.js are designed with scalability in mind. Whether you're developing a small app or a large, complex web application, these frameworks have the capacity to handle the load efficiently. They've been used in production by large companies, such as Facebook and Netflix, underlining their capacity for scalability.
+
+- **Rich Ecosystem and Community:**
+Both React and Next have large, active communities, and a rich ecosystem of plugins, libraries, and tools that can further speed up development and provide solutions to common problems.
+
 
 ## Nuxt 
 
+Coming soon
 
 <br><br>

@@ -8,7 +8,7 @@ This section provides comprehensive information on the development aspects of th
 
 The Development Guide is designed to help developers build robust and scalable applications using the Cellmobs platform. It also provides guidance and ideas for implementing specific use cases, helping you understand how to tailor the platform's features and capabilities to build applications that cater to your unique requirements. Some of the use cases covered in the Development Guide include:
 
-### :material-grid:&nbsp; [Marketplaces](/guide/setup-and-management) 
+### :material-grid:&nbsp; [Marketplaces](/guide/marketplaces) 
 The guide offers insights on how to create and manage online marketplaces, connecting buyers and sellers, and handling transactions. It covers essential features such as product listings, search and filtering, vendor management, and order processing. By following the guidance provided, you can develop a seamless marketplace experience that meets the needs of both buyers and sellers.
 
 ### :fontawesome-solid-cart-shopping:&nbsp; [E-commerce Apps](/guide/e-commerce) 
@@ -22,6 +22,7 @@ The guide offers insights on managing content within your application, such as a
 
 ### :fontawesome-solid-toolbox:&nbsp; [Custom Use Cases](/guide/syndication) 
 In addition to the specific use cases mentioned above, the Development Guide also offers guidance on how to adapt the Cellmobs platform to meet your unique requirements. This includes tips on [customizing data models, user roles, and integrations, allowing you to build applications that cater to a wide range of industries and verticals.
+
 
 <br>
 

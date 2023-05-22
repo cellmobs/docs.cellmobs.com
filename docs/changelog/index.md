@@ -6,14 +6,12 @@ template: overrides/main.html
 
 ## Cellmobs 3.0
 
-### 8.3.6 <small>_ June 16, 2022</small> { id="8.3.6" }
+### 0.1.1 <small>_ May 22, 2022</small> { id="1.1.15" }
 
-- Fixed #4028: Links not clickable when using versioning (8.3.5 regression)
+- Added Quickstart Guide
+- ReactSDK Installation instruction
 
-### 8.3.5 <small>_ June 14, 2022</small> { id="8.3.5" }
-
-- Fixed #4012: Stay on page not working for alias of active version
-
-### 0.1.0 <small>_ February 9, 2016</small> { id="0.1.0" }
+### 0.1.0 <small>_ May 12, 2023</small> { id="0.1.0" }
 
 - Initial release
+

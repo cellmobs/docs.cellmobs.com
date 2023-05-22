@@ -5,9 +5,10 @@ title: Nuxt SDK
 
 # Nuxt SDK
 
-Cellmobs provides a Nuxt SDK that allows us to easily build a UI for our site.
+Coming soon!
+<!-- Cellmobs provides a Nuxt SDK that allows us to easily build a UI for our site. -->
 
-[Nuxt.js](https://nuxtjs.org/) is a free and open source JavaScript library based on Vue.js, Node.js, Webpack and Babel.js. Nuxt is inspired by Next.js, which is a framework of similar purpose, based on React.js.
+<!-- [Nuxt.js](https://nuxtjs.org/) is a free and open source JavaScript library based on Vue.js, Node.js, Webpack and Babel.js. Nuxt is inspired by Next.js, which is a framework of similar purpose, based on React.js.
 
 ## Cloning the project
 Before we get started, we need to fulfill the following dependencies
@@ -66,4 +67,4 @@ To learn more about Nuxt.js, take a look at the following resources:
 - [Nuxt.js Documentation](https://nuxtjs.org/docs/get-started) - learn about Nuxt.js features and API.
 - [Learn Nuxt.js](https://nuxtjs.org/tutorials) - an interactive Nuxt.js tutorial.
 
-You can check out [the Nuxt.js GitHub repository](https://github.com/nuxt/nuxt.js) - your feedback and contributions are welcome!
+You can check out [the Nuxt.js GitHub repository](https://github.com/nuxt/nuxt.js) - your feedback and contributions are welcome! -->

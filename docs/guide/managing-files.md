@@ -5,6 +5,6 @@ title: Managing Files
 
 # Managing Files
 
-Managing Files
+Guide will be availble soon!
 
 

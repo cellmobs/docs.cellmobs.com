@@ -4,13 +4,12 @@ title: E-Commerce
 ---
 
 # E-Commerce
-
-E-Commerce
-
-## Setup a Payment Processor
+Guide will be availble soon!
 
 ## Create a Product Catalog
 
 ### Tag your Products
+
+## Setup a Payment Processor
 
 
