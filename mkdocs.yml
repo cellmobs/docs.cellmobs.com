@@ -154,7 +154,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: https://dev.cellmobs.com
+  - Home: https://www.cellmobs.com
   - Getting started:
     - Introduction: getting-started.md
     - Quickstart: setup/quickstart.md

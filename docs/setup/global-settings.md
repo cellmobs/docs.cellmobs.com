@@ -37,7 +37,7 @@ App Settings are managed using the [App Console](/app-console/other-settings). [
 |`google.analytics.id`| Google Analytics Measurement ID | UA-#########-1|  
 |`google.maps.key`| Google Map API Key | AIzaSyB6Q99Sf_#################| | 
 |`google.tag.manager.id`| Google Tag Manager ID | GTM-N56ZFB6| | 
-|`host.domain`| Your application host |  dev.cellmobs.com|  
+|`host.domain`| Your application host |  www.cellmobs.com|  
 |`messaging.from.email`| The email address that is used for sending application alerts | info@cellmobs.com| 
 |`recaptcha.secret.key`| The Google reCAPTHCA secret key | [:fontawesome-regular-circle-question:](https://www.google.com/recaptcha/about/){:target="_blank"} | 
 |`recaptcha.site.key`|The Google reCAPTHCA site key | [:fontawesome-regular-circle-question:](https://www.google.com/recaptcha/about/){:target="_blank"} | 
