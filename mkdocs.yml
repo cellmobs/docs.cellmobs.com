@@ -205,6 +205,7 @@ nav:
     - Managing Files : guide/managing-files.md
     - Marketplaces : guide/marketplaces.md
     - Communities : guide/communities.md
+    - Plugins: guide/plugins.md
     - Syndication : guide/syndication.md    
     - Aggregation : guide/aggregation.md    
     - SEO: guide/seo.md

@@ -5,8 +5,6 @@ title: Aggregation
 
 # Aggregation
 
-Setting up ...
+Guide will be available soon!
 
-## Feeds
-Before we get started
 

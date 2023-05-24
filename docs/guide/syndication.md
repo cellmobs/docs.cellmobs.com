@@ -5,8 +5,6 @@ title: Syndication
 
 # Syndication 
 
-Setting up ...
+Guide will be available soon!
 
-## Channels 
-Before we get started
 
