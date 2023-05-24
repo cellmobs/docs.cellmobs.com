@@ -5,9 +5,11 @@
 --md-primary-bg-color: #9c0d14;
 --md-typeset-a-color:  #9c0d14;
 --md-footer-bg-color: #093548;
+--md-default-fg-color--light:#333333;
+--md-tabs-bgcolor: #fae8e8;
 }
 .md-tabs{
-    background-color: #fae8e8;
+    background-color:var(--md-tabs-bgcolor);
  }
  .md-search__form:hover{
     background-color: #423f3f;
@@ -17,12 +19,10 @@
 } */
 
 .md-typeset h1 {
-   color:#333333;
    font-weight: 600;
 }
 
 .md-typeset h2 {
-   color:#333333;
    font-weight: 600;
 }
 .md-typeset h3 {

@@ -11,7 +11,7 @@ This section serves as an introduction to the Cellmobs platform and provides a h
 ### :material-tools:&nbsp; [Configuration](/setup/setup-and-management)
 This section covers the process of setting up and configuring your Cellmobs application. It provides detailed instructions on how to create a new app, manage settings, configure integrations, and customize the appearance and behavior of your app. The information in this section is crucial for getting your app up and running smoothly.
 
-### :material-view-dashboard:&nbsp; [App Console](/app-console/)
+### :material-view-dashboard:&nbsp; [App Console](/app-console/console-overview)
 This section focuses on the Cellmobs App Console, the primary interface for managing your application. It offers in-depth guidance on how to use the console to configure and manage various aspects of your app, such as user management, subscription plans, product catalogs, content management, and more. By mastering the App Console, you can effectively manage your app and ensure a seamless user experience.
 
 ### :material-bookshelf:&nbsp; [Development Guide](/guide/development-guide)
