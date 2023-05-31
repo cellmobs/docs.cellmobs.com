@@ -26,6 +26,7 @@ App Settings are managed using the [App Console](/app-console/other-settings). [
 |`aws.default.region`|us-east-1| | 
 |`aws.access.key`  | AWS Access Key for overriding the default App assets storage location | ######  | 
 |`aws.secret.access.key` | Access Secret Access Key for overriding the default App storage location | ###### | 
+|`api.host`| Your REST API host |  http://web.cellmobs.com |  
 |`cdn.bucket` | S3 bucket for public static assets | media.cellmobs.com  | 
 |`cdn.host` | CDN host for public static assets |  https://cdn.cellmobs.com | 
 |`cdn.root.folder`| S3 folder for public static assets | app-1/ | 
