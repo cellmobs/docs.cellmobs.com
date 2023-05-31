@@ -42,3 +42,4 @@ When the sitemap or sitemap index file is generated, you can opt to have it auto
     <figcaption>Manage &amp; Download Sitemaps</figcaption>
 </figure>
 
+<br><br>

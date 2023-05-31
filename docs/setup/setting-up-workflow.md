@@ -27,7 +27,7 @@ Cellmobs recognizes the importance of seamless API integrations in today's inter
 </figure>
 
 
-Furthermore, Cellmobs supports Zapier, a well-known platform that connects various apps and services through automated workflows. This integration enables developers to create custom, automated processes between Cellmobs and other platforms without the need for extensive coding or development work.
+Furthermore, Cellmobs supports Zapier, a well-known platform that connects various apps and services through automated workflows. This integration enables developers to create custom, automated processes between Cellmobs and other platforms without the need for extensive coding or development work. 
 
 In addition to these integrations, Cellmobs is currently working on a plugin framework designed to empower developers to register their own integrations with the platform. This feature will allow developers to create custom integrations tailored to their specific needs or even publish them for the broader Cellmobs development community. 
 
