@@ -13,7 +13,7 @@ Content in Cellmobs is always associated with a primary [Organization](/app-cons
 
 ## Content Types
 
-Cellmobs supports different Content Types. They are typically derived from the file mimetype during uploads unless they are explictly provided. It is goog practive to pass the ContentType parameter along with a configured FileType. 
+Cellmobs supports different Content Types. They are typically derived from the file mimetype during uploads unless they are explictly provided. It is good practive to pass the ContentType parameter along with a configured FileType. 
 
 The main content types are:
 
@@ -24,11 +24,19 @@ The main content types are:
 | `AUDIO` | All public Audio files | 
 | `DOCUMENT` | All public documents e.g. doc, pdf, ppt, etc | 
 | `FOLDER` | Represents the path to a folder. Either on S3 or another supported storage API  | 
-| `SECURE_FILE` | Files that are uploaded to private AWS bucket that is only accessible to authorized usersl where file access is proxied through Cellmobs ACL | 
+| `SECURE_FILE` | Files that are uploaded to private AWS bucket that is only accessible to authorized users where file access is proxied through Cellmobs ACL | 
 
 FileType is a Content sub type and defines the business use case of a given file. Some file types are [system types](/setup/image-settings/?h=filetype#system-file-types) while others can be freely defined by the application developer. 
 
 Images settings for `IMAGE` file types for example are configured using [Image Settings](/setup/image-settings).   
+
+## Secure Files
+
+When a file contains sensitive information or digital assets that are for sale, you can choose to upload it as a `SECURE_FILE` to ensure the file is uploaded to a secure storage location.
+
+Access to these files is tightly controlled and regulated. They are not accessible to everyone but only to users who have been explicitly authorized. This ensures that sensitive documents, such as contracts or media records, are only viewed by the intended parties. Similarly, digital assets for sale, like an e-book, movie, or music file, are safeguarded from unauthorized access or downloads (see [Product](/app-console/manage-products) for more).
+
+Authorization can be managed at a granular level, meaning you can control exactly who has access to each individual file. This might be based on [user roles](/setup/security), permissions, or even specific transactions (like a user who has just purchased a digital product).
 
 ## Renditions
 
@@ -45,7 +53,6 @@ Remember, the decision to generate renditions or not will depend on your specifi
 ## Creating Content
 
 Use Cellmobs to create unique web and mobile content - from articles, and infographics to videos, GIFs and memes, which can be used while creating products.
-
 
 - Go to [Content Section](https://console.cellmobs.com/admin/content/list)
 - Click on Add Content 

@@ -36,22 +36,23 @@ We currently support the following integrations and are adding new ones every we
 
 | API | Entity Types | Process Types | Status |
 |------------|------------|--------------|-------------|
-| Dropbox | `CONTENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE` | Live | 
-| OneDrive | `CONTENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE` | Live | 
-| Google Drive | `CONTENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE` | Live | 
-| BOX | `CONTENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE` | Live | 
-| AWS S3 | `CONTENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE` | Live | 
-| MS Contacts | `IDENTITY`, `ORGANIZATION` | `CREATE`, `SAVE`, `DELETE`, `MOVE` | Live | 
-| MS Calendar | `CALENDAR_EVENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE` | Live | 
-| Hubspot  | `IDENTITY`, `ORGANIZATION`, `DEAL_TERMS`, `WORK`, `LEAD` | `CREATE`, `SAVE`, `DELETE`, `MOVE` | Live | 
-| Google People | `IDENTITY`, `ORGANIZATION` | `CREATE`, `SAVE`, `DELETE`, `MOVE` | Live | 
-| Google Calendar | `CALENDAR_EVENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE` | Live | 
+| Dropbox | `CONTENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE`, `LIST` | Live | 
+| OneDrive | `CONTENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE`, `LIST` | Live | 
+| Google Drive | `CONTENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE`, `LIST` | Live | 
+| BOX | `CONTENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE`, `LIST` | Live | 
+| AWS S3 | `CONTENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE`, `LIST` | Live | 
+| MS Contacts | `IDENTITY`, `ORGANIZATION` | `CREATE`, `SAVE`, `DELETE`, `MOVE`, `LIST` | Live | 
+| MS Calendar | `CALENDAR_EVENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE`, `LIST` | Live | 
+| Hubspot  | `IDENTITY`, `ORGANIZATION`, `DEAL_TERMS`, `WORK`, `LEAD` | `CREATE`, `SAVE`, `DELETE`, `MOVE`, `LIST` | Live | 
+| Google People | `IDENTITY`, `ORGANIZATION` | `CREATE`, `SAVE`, `DELETE`, `MOVE`, `LIST` | Live | 
+| Google Calendar | `CALENDAR_EVENT` | `CREATE`, `SAVE`, `DELETE`, `MOVE`, `LIST` | Live | 
 | MS Teams | `INBOX_ITEM`,`IDENTITY`, `ORGANIZATION` | `CREATE`, `SAVE`, `DELETE`, `MOVE` | Live | 
 | Slack | `INBOX_ITEM`, `IDENTITY`,, `ORGANIZATION` | `CREATE`, `SAVE`, `DELETE`, `MOVE` | Live | 
-| Mailchimp | `IDENTITY` | `CREATE`, `SAVE`, `DELETE` | Live | 
-| Trello | `IDENTITY`, `PROJECT`, `WORK`  | `CREATE`, `SAVE`, `DELETE` | Live | 
-| Jira | `IDENTITY`, `PROJECT`, `WORK`  | `CREATE`, `SAVE`, `DELETE` | Live | 
+| Mailchimp | `IDENTITY` | `CREATE`, `SAVE`, `DELETE`, `LIST` | Live | 
+| Trello | `IDENTITY`, `PROJECT`, `WORK`  | `CREATE`, `SAVE`, `DELETE`, `LIST` | Live | 
+| Jira | `IDENTITY`, `PROJECT`, `WORK`  | `CREATE`, `SAVE`, `DELETE`, `LIST` | Live | 
 | Zapier | All entities  | `CREATE`, `SAVE`, `DELETE` | Live | 
 | OpenAI | `WEB_PAGE`, `CONTENT`  | Generate Text and Images  | Live | 
+| YouTube | `CONTENT`  | `CREATE`, `SAVE`, `DELETE`, `LIST` | Live | 
 
 <br><br>

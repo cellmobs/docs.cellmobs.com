@@ -186,6 +186,7 @@ nav:
     - Integrations: app-console/manage-integrations.md
     - Localization: app-console/manage-localization.md
     - Logging In : app-console/console-login.md
+    - Ledgers : app-console/manage-ledgers.md
     - Orders: app-console/manage-orders.md
     - Organizations: app-console/manage-organizations.md
     - Pages: app-console/manage-pages.md
