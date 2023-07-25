@@ -107,10 +107,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/cellmobs
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
     - icon: fontawesome/brands/jira
-      link: https://cellmobs.atlassian.net/
+      link: https://cellmobs.atlassian.net/servicedesk/customer/portals
 
 # Extensions
 markdown_extensions:
